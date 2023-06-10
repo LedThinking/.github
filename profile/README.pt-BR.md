@@ -2,7 +2,7 @@ pt-BR | [en-EN](readme.md)
 
 <div align="center">
 
-![Ledthinking Logo](../.github/assets/logo.png)
+![Ledthinking Logo](https://raw.githubusercontent.com/LedThinking/.github/main/.github/assets/logo.png)
 
 </div>
 
