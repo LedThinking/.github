@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Ledthinking Logo](/.github/assets/logo.png)
+![Ledthinking Logo](../.github/assets/logo.png)
 
 </div>
 
