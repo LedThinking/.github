@@ -1,4 +1,4 @@
-[pt-BR](readme.pt-BR.md) | en-EN
+[pt-BR](profile/readme.pt-BR.md) | en-EN
 
 <div align="center">
 
