@@ -1,4 +1,4 @@
-[pt-BR](./README.pt-BR.md) | en-EN
+[pt-BR](/profile/README.pt-BR.md) | en-EN
 
 <div align="center">
 
